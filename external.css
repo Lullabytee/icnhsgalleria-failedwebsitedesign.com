@@ -1,0 +1,54 @@
+        h4 {  
+			height:150px; 
+			width:1200px; 
+			background: darkgreen;
+			border-radius: 10px;
+			position: absolute;
+			left: 130px;
+			top: 70px;
+		}
+
+        h1 {
+			color: darkgreen; 
+			font-family:tahoma; 
+			height:150px; 
+			width:1200px; 
+			background: yellowgreen;
+			text-align: center;
+			border-radius: 10px;
+			position: absolute;
+			left: 150px;
+		}
+
+		h2 { 
+			color: darkgreen;
+			font-family: cursive;
+			position: absolute;
+			width: 70%;
+			left: 15%;
+			top: 15%;
+		}
+
+		h3 { 
+			color: black; 
+			font-family: cursive; 
+			position: absolute;
+			width: 70%;
+			left: 15%;
+			top: 20%;
+		}
+
+		body { 
+			background-image: url(C:\Users\lovel\Desktop\WEBSITE GROUP PROJECTT\entrance.jpg); 
+			background-repeat: no-repeat; 
+			background-size: cover;
+		}
+
+		button {
+			font-size: 25px; 
+			background-color: darkgreen; 
+			color: whitesmoke; 
+			border-radius: 10px;
+			border-color: whitesmoke;
+			position: absolute;
+		}

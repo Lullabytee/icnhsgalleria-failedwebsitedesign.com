@@ -1,0 +1,27 @@
+		h3 { 
+			color: darkgreen; 
+			font-family: cursive; 
+			height:60px; 
+			width:700px;
+			background-color: yellowgreen;
+			font-size: 20px;
+			position: absolute;
+			text-align: center;
+			left: 450px;
+			border-radius: 10px;
+			position: absolute;
+		}
+
+		h1 { 
+			font-family: cursive; 
+			height:60px; 
+			width:700px;
+			background-color: darkgreen;
+			font-size: 20px;
+			position: absolute;
+			text-align: center;
+			left: 460px;
+			top: 20px;
+			border-radius: 10px;
+			position: absolute;
+		}
